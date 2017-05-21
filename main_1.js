@@ -1847,3 +1847,9 @@ function keyUp(event){
 window.addEventListener('keydown', keyDown);
 window.addEventListener('keyup', keyUp);
 window.addEventListener('load', init, false);
+
+
+
+//***************************************************************************** */
+// Based off of: "The Making of 'The Aviator': Animating a Basic 3D Scene with Three.js", by Karim Maaloul.
+//***************************************************************************** */
